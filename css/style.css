@@ -63,5 +63,14 @@ img {
   max-width: 100%;
 }
 
+#company-name{
+  color: black;
+}
+
+#intro,
+#fan-fav,
+#team{
+  padding: 4em 0;
+}
 
 
