@@ -48,7 +48,14 @@ html {
 }
 
 body {
+  font-family: 'Nunito',sans-serif;
+  color: black;
   margin: 0;
+}
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto
 }
 
 img {
