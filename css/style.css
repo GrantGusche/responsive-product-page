@@ -53,9 +53,21 @@ body {
   margin: 0;
 }
 
+ .container {
+  max-width: 960px;
+  margin: 100px auto;
+}
+
+.item {
+  background: steelblue;
+  color: fff;
+  padding: 20px;
+
+}
+
 .wrapper {
   max-width: 1200px;
-  margin: 0 auto
+  margin: 100px auto
 }
 
 img {
